@@ -1,0 +1,26 @@
+Product,Stage,Count
+Product 1,Website visited,5860
+Product 1,Product viewed,2666
+Product 1,Added to cart,1956
+Product 1,Checkout initiated,1523
+Product 1,Purchase confirmed,1235
+Product 2,Website visited,9426
+Product 2,Product viewed,5069
+Product 2,Added to cart,3041
+Product 2,Checkout initiated,1954
+Product 2,Purchase confirmed,1685
+Product 3,Website visited,5769
+Product 3,Product viewed,3557
+Product 3,Added to cart,2780
+Product 3,Checkout initiated,1668
+Product 3,Purchase confirmed,1581
+Product 4,Website visited,6184
+Product 4,Product viewed,3038
+Product 4,Added to cart,1997
+Product 4,Checkout initiated,1456
+Product 4,Purchase confirmed,1125
+Product 5,Website visited,6082
+Product 5,Product viewed,3162
+Product 5,Added to cart,1625
+Product 5,Checkout initiated,1449
+Product 5,Purchase confirmed,1098
